@@ -1,0 +1,48 @@
+Ejemplos de paginas: Brigard urrutia - peralta y aosciados - dla pipers
+
+Requisitos pagina web
+
+Pantalla principal
+ *Logo
+ *Inicio, Historia, Servicios, Equipo, Contacto
+
+Historia
+ *Mision y vision
+ *Historia
+ *Acerca de nosotros
+
+Servicios
+ *Servicio empresariales, constitucion de empresa
+
+Equipo
+ *Fotos
+ *Experiencia
+ *Cargo
+ *Estudios
+ *Especialidad
+
+¿Cuantos secciones tendra la pagina web?
+ *Tres secciones
+
+¿Generacion de respaldos?
+ *GitHub
+
+¿Revision de Seguridad?
+ *
+
+¿Informe?
+ *
+
+
+                                Fases del proyecto
+*Recopilacion de Informacion
+*Diseño y desarrollo
+*Primera revision
+*Diseño y desarrollo
+*Presentacion del proyecto
+*Segunda revision
+*Ajustes
+
+
+
+
